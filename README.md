@@ -15,7 +15,3 @@ I have worked on various personal and client projects involving the design and d
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
-
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cwbclunexaulw9vs96823btijwdwn11pdf3zuyo6&rid=giphy.gif&ct=g" width="100"/>
-</div>
