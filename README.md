@@ -13,7 +13,7 @@ My programming experience includes JavaScript, Node, TypeScript, React,
 C#, Java, and Python. Do you wanna know more? Get in touch. I look forward to
 hearing from you.
 
-### Skills
+## Skills
 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
