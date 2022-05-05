@@ -2,7 +2,7 @@
 
 ![Old school tech](https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
-## About me
+## About Me
 
 I am a student currently working towards completing a dual-enrollment program for a software development diploma at the Manitoba Institute of Trades and Technology, alongside a high school diploma.
 
