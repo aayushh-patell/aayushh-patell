@@ -2,6 +2,8 @@
 
 ![Old school tech](assets/vintage.jpg "Old school tech")
 
+Visit My Socials 👉
+
 ## About me
 
 I am a student currently working towards completing a dual-enrollment program for a software development diploma at the Manitoba Institute of Trades and Technology, alongside a high school diploma.
