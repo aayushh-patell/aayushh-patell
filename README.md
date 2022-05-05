@@ -2,16 +2,11 @@
 
 ## About me
 
-Hello, world. I'm Andre Specht, a full-stack developer and IT instructor based
-in Winnipeg, Canada.
+I am a student currently working towards completing a dual-enrollment program for a software development diploma at the Manitoba Institute of Trades and Technology, alongside a high school diploma.
 
-I'm a passionate developer focused on crafting beautiful and functional 
-websites. I also love teaching and helping others to turn ideas into amazing 
-interactive applications.
+For the past two years, I've been enrolled in the Pembina Trails Early College (PTEC) program. PTEC is a technologically focused school program where I learned a variety of topics in Networking, Cybersecurity, and Web Design. After studying an array of technological topics for two years, I continued my education at the Manitoba Institute of Trades and Technology.
 
-My programming experience includes JavaScript, Node, TypeScript, React,
-C#, Java, and Python. Do you wanna know more? Get in touch. I look forward to
-hearing from you.
+I have worked on various personal and client projects involving the design and development of websites using programming languages such as HTML, CSS, and JavaScript.
 
 ## Skills
 
@@ -26,5 +21,3 @@ hearing from you.
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=51be8d)
-
-![](https://img.shields.io/badge/<CODE>-<HTML>-informational?style=flat&logo=<HTML>&logoColor=white&color=2bbc8a)
