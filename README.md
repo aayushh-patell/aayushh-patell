@@ -1,5 +1,3 @@
-# Welcome to my GitHub Profile
-
 ![](Images/Banner.jpg)
 
 ## About Me
