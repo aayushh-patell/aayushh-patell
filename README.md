@@ -13,3 +13,7 @@ I have worked on various personal and client projects involving the design and d
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=43b1ff)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=43b1ff)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=43b1ff)
+
+## Stats
+
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nord&show_icons=true)
