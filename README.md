@@ -17,4 +17,4 @@ I have worked on various personal and client projects involving the design and d
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=aayushh-patell&theme=nord&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushh-patell)](https://github.com/aayushh-patell/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushh-patell&hide=scss)](https://github.com/aayushh-patell/github-readme-stats)
