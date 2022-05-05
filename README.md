@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile
 
-![](Images/banner.jpg)
+![](Images/Banner.jpg)
 
 ## About Me
 
