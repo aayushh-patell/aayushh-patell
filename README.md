@@ -10,15 +10,12 @@ I have worked on various personal and client projects involving the design and d
 
 ## Skills
 
-<<<<<<< HEAD
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nord&show_icons=true)
-=======
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=43b1ff)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=43b1ff)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=43b1ff)
@@ -31,4 +28,3 @@ I have worked on various personal and client projects involving the design and d
 <a href="https://github.com/aayushh-patell">
   <img align="center" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushh-patell&theme=nord&hide=scss&show_icons=true&langs_count=3"/>
 </a>
->>>>>>> fd1a1b4f197e316abda00034041ec6af6e4e68ec
