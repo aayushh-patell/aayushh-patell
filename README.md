@@ -1,5 +1,3 @@
-![](Images/Banner.jpg)
-
 ## About Me
 
 I am a student currently working towards completing a dual-enrollment program for a software development diploma at the Manitoba Institute of Trades and Technology, alongside a high school diploma.
