@@ -1,10 +1,12 @@
 ## About Me
 
-I am a student currently working towards completing a dual-enrollment program for a software development diploma at the Manitoba Institute of Trades and Technology, alongside a high school diploma.
+As a dedicated and ambitious student, I am constantly seeking new opportunities to challenge myself and grow my skillset. That's why I am excited to be enrolled in the Pembina Trails Early College (PTEC) program, where I have had the opportunity to learn and work on a variety of projects in fields such as game development, web development, networking, and cyber security.
 
-For the past two years, I've been enrolled in the Pembina Trails Early College (PTEC) program. PTEC is a technologically focused school program where I learned a variety of topics in Networking, Cybersecurity, and Web Design. After studying an array of technological topics for two years, I continued my education at the Manitoba Institute of Trades and Technology.
+In addition to my studies at PTEC, I am also attending the Manitoba Institute of Trades and Technology (MITT) where I am focusing on web design and development. I have always been drawn to the creativity and problem-solving skills required in this field, and I am excited to continue honing my abilities and learning new techniques.
 
-I have worked on various personal and client projects involving the design and development of websites using programming languages such as HTML, CSS, and JavaScript.
+Outside of my academic pursuits, I am also an active member of my community, volunteering my time and skills to various causes. I believe that it is important to give back and make a positive impact in the world, and I try to do so in any way that I can.
+
+I am passionate about using my skills and knowledge to create innovative and engaging digital experiences for users. I am always seeking new opportunities to learn and grow, and I am excited to see where my interests in technology and development will take me in the future.
 
 ## Skills
 
