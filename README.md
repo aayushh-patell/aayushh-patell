@@ -31,5 +31,5 @@ I have worked on various personal and client projects involving the design and d
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=aayushh-patell&theme=nord&show_icons=true"/>
 </a>
 <a href="https://github.com/aayushh-patell">
-  <img align="center" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushh-patell&theme=nord&hide=scss&show_icons=true&langs_count=3"/>
+  <img align="center" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushh-patell&theme=nord&hide=scss&show_icons=true&langs_count=5"/>
 </a>
