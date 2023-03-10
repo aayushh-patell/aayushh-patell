@@ -8,10 +8,10 @@ I have worked on various personal and client projects involving the design and d
 
 ## Skills
 
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=43b1ff)
+![JavaScript](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=43b1ff)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=43b1ff)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=43b1ff)
+![HTML](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=43b1ff)
+![CSS](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=43b1ff)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
