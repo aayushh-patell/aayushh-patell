@@ -1,12 +1,12 @@
 ## About Me
 
-As a dedicated and ambitious student, I am constantly seeking new opportunities to challenge myself and grow my skillset. That's why I am excited to be enrolled in the Pembina Trails Early College (PTEC) program, where I have had the opportunity to learn and work on a variety of projects in fields such as game development, web development, networking, and cyber security.
+Hi! I'm Aayush, a passionate advocate for technology and a strong believer in its potential for positive change. Here's a glimpse of my journey:
 
-In addition to my studies at PTEC, I am also attending the Manitoba Institute of Trades and Technology (MITT) where I am focusing on web design and development. I have always been drawn to the creativity and problem-solving skills required in this field, and I am excited to continue honing my abilities and learning new techniques.
+🚀 PTEC Graduate: I recently completed the Pembina Trails Early College (PTEC) program, gaining 4 years of invaluable hands-on experience in software development, cybersecurity, networking, and more. PTEC equipped me with practical skills and a profound understanding of the tech industry's limitless innovation possibilities.
 
-Outside of my academic pursuits, I am also an active member of my community, volunteering my time and skills to various causes. I believe that it is important to give back and make a positive impact in the world, and I try to do so in any way that I can.
+🎓 Waterloo Warrior: This Fall, I began my exciting journey in the Software Engineering program at the University of Waterloo, known for its unwavering commitment to excellence and innovative curriculum. I'm eager to immerse myself in cutting-edge technologies, collaborate with talented peers, and take on real-world challenges with enthusiasm.
 
-I am passionate about using my skills and knowledge to create innovative and engaging digital experiences for users. I am always seeking new opportunities to learn and grow, and I am excited to see where my interests in technology and development will take me in the future.
+♻️ Eco Advocate: Beyond my professional endeavours, I'm deeply committed to environmental sustainability and community improvement. I actively participate in volunteer and leadership opportunities, dedicating my time to various local initiatives aimed at making a positive impact.
 
 ## Skills
 
