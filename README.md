@@ -1,12 +1,18 @@
 ## About Me
 
-Hi! I'm Aayush, a passionate advocate for technology and a strong believer in its potential for positive change. Here's a glimpse of my journey:
+Hi, I'm Aayush! 👋 Thanks for stopping by my profile. Here's a few things about me:
 
-🚀 PTEC Graduate: I recently completed the Pembina Trails Early College (PTEC) program, gaining 4 years of invaluable hands-on experience in software development, cybersecurity, networking, and more. PTEC equipped me with practical skills and a profound understanding of the tech industry's limitless innovation possibilities.
+🎓 I'm in my second year in Software Engineering at the University of Waterloo
 
-🎓 Waterloo Warrior: This Fall, I began my exciting journey in the Software Engineering program at the University of Waterloo, known for its unwavering commitment to excellence and innovative curriculum. I'm eager to immerse myself in cutting-edge technologies, collaborate with talented peers, and take on real-world challenges with enthusiasm.
+💼 I'm experienced in software engineering with a range of tech stacks and languages, including C#, C, C++, HTML/CSS, JavaScript, SQL, and more
 
-♻️ Eco Advocate: Beyond my professional endeavours, I'm deeply committed to environmental sustainability and community improvement. I actively participate in volunteer and leadership opportunities, dedicating my time to various local initiatives aimed at making a positive impact.
+👾 I've always been interested in cybersecurity and networking. I've already completed intro to hardware, networking, and cybersecurity certifications from Cisco, and I'm working towards obtaining my CompTIA Security+ certification
+
+🤝 I'm always looking to get involved in organisations working towards social good. I'm excited to be volunteering at UW Blueprint–a student design team at the University of Waterloo–that works with nonprofit organisations to built digital tools to accomplish their missions
+
+🎉 Outside of tech, I love visiting national and provincial parks, learning new languages, and making digital art
+
+🙌 Feel free to reach out. I love meeting new people and hearing about new opportunities!
 
 ## Skills
 
