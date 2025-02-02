@@ -32,12 +32,3 @@ Hi, I'm Aayush! 👋 Thanks for stopping by my profile. Here's a few things abou
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-## Stats
-
-<a href="https://github.com/aayushh-patell">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=aayushh-patell&theme=nord&show_icons=true"/>
-</a>
-<a href="https://github.com/aayushh-patell">
-  <img align="center" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushh-patell&theme=nord&hide=scss&show_icons=true&langs_count=5"/>
-</a>
